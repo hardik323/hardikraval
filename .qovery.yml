@@ -1,0 +1,11 @@
+---
+application:
+  name: "hardikraval"
+  project: "Aabs"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-hardikraval"
+  routes:
+  - application_name: "hardikraval"
+    paths:
+    - "/*"
